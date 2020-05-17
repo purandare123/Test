@@ -20,7 +20,6 @@ class Codechef
 			int flag1=1;
 			int flag2=1;
 			ArrayList al = new ArrayList();
-			ArrayList bl = new ArrayList();
 			int N = sc.nextInt();
 			
 			for(int i=0;i<N;i++)
